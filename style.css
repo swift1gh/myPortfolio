@@ -253,6 +253,7 @@ section{
 
 /* EXPERIENCE SECTION */
 #experience {
+    margin-top: 4rem;
     position: relative;
 }
 .experience-sub-title{
