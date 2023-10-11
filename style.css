@@ -313,6 +313,7 @@ article.icon{
     justify-content: center;
     flex-direction: column;
     height: 70vh;
+    margin-top: 10rem;
 }
 .contact-info-upper-container{
     display: flex;
