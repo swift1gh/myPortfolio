@@ -43,6 +43,9 @@
 }
 
 @media screen and (max-width: 600px) {
+    .btn1{
+        border: 0.005rem solid;
+    }
     #contact, footer {
         height: 40vh;
     }
