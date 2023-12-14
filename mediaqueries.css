@@ -45,6 +45,8 @@
 @media screen and (max-width: 600px) {
     .btn1{
         border: 0.005rem solid;
+        border-color: rgb(70, 69, 69);
+        color: rgb(70, 69, 69);
     }
     #contact, footer {
         height: 40vh;
