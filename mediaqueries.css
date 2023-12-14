@@ -102,6 +102,10 @@
     .about-containers {
         gap: 0.5rem;
     }
+    .about-containers {
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 
