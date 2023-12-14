@@ -98,7 +98,11 @@
     }
 }
 
-
+@media screen and (max-width: 430px) {
+    .about-containers {
+        gap: 0.5rem;
+    }
+}
 
 
 
